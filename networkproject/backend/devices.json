@@ -1,0 +1,52 @@
+{
+    "devices": [
+        {
+            "name": "Laptop",
+            "ip": "192.168.102.3",
+            "mac_address": "6d:cd:01:4f:d2:15",
+            "interface": "GigabitEthernet4",
+            "last_ping": null,
+            "status": "unknown"
+        },
+        {
+            "name": "Phone",
+            "ip": "192.168.1.5",
+            "mac_address": "be:da:10:42:53:d1",
+            "interface": "GigabitEthernet4",
+            "last_ping": null,
+            "status": "unknown"
+        },
+        {
+            "name": "Server",
+            "ip": "192.168.1.51",
+            "mac_address": "c4:35:6a:b4:1e:68",
+            "interface": "GigabitEthernet3",
+            "last_ping": null,
+            "status": "unknown"
+        },
+        {
+            "name": "mnmn",
+            "ip": "192.168.50.1",
+            "mac_address": "ac:30:ea:80:12:c9",
+            "interface": "GigabitEthernet1",
+            "last_ping": null,
+            "status": "unknown"
+        },
+        {
+            "name": "menna",
+            "ip": "192.168.1.1",
+            "mac_address": "86:56:6e:2f:b7:a2",
+            "interface": "GigabitEthernet4",
+            "last_ping": null,
+            "status": "unknown"
+        },
+        {
+            "name": "fatma",
+            "ip": "192.168.5.5",
+            "mac_address": "4f:d4:be:43:6f:c2",
+            "interface": "GigabitEthernet2",
+            "last_ping": null,
+            "status": "unknown"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "devices": [
+        {
+            "name": "m",
+            "ip": "192.168.1.2",
+            "mac_address": "1f:f3:05:78:96:58",
+            "interface": "GigabitEthernet2",
+            "last_ping": null,
+            "status": "unknown"
+        }
+    ]
+}
